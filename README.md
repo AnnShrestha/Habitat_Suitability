@@ -4,3 +4,4 @@ data combined with environmental and spatial variables. The Wildlife Conservatio
 overlapping lion habitats, to improve conservation efforts.
 
 **Methods**
+![Picture1](https://github.com/user-attachments/assets/ac03a263-f87c-4ac7-bc52-d8ff31285c79)
